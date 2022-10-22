@@ -27,14 +27,14 @@
 
 | 公司         | 时间       | 事件                                                    | 外链                                                         | 长截图                                                       |
 | :----------- | :--------- | :------------------------------------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 兆易创新     | 2022/09/09 | 兆易创新毁意向                                          | [兆易创新毁意向](https://www.nowcoder.com/discuss/1046409)   | ![兆易创新毁意向](image-20221023000024497.png)               |
-| 万集科技     | 2022/10/21 | 万集科技毁意向书征集                                    | [万集科技毁意向书征集](https://www.nowcoder.com/discuss/1082124) | ![万集科技毁意向书征集](image-20221023000125663.png)         |
-| 诺瓦星云     | 2022/09/28 | 诺瓦星云毁意向                                          | [【避坑】诺瓦星云毁意向](https://www.nowcoder.com/discuss/1066991) | ![诺瓦星云毁意向](image-20221023000358890.png)               |
-| 中科曙光     | 2022/10/21 | 又是被中科曙光毁意向的一天，双非硕以及211没过六级的不要 | [又是被中科曙光毁意向的一天](https://www.nowcoder.com/feed/main/detail/37f4e4234c3241c1aee202d287ebd485) | ![又是被中科曙光毁意向的一天](image-20221023000710536.png)   |
-| 飞腾         | 2022/10/21 | 飞腾 毁意向                                             | [牛客第一帖：飞腾毁意向](https://www.nowcoder.com/discuss/1082068) | ![长沙飞腾，只能说庆幸我没有全押宝在这上面](image-20221023000856470.png) |
-| 国电南自     | 2022/10/14 | 国电南自毁提前批意向书                                  | [国电南自毁提前批意向，大家小心点吧！操作太恶心了。](https://www.nowcoder.com/feed/main/detail/1758c9538b864b57a50cb050cc92962a) | ![真的恶心啊。去年牛客上就有这样的例子，我以为不可能，结果今年到我了。](image-20221023001120429.png) |
-| 明源云       | 2022/08/01 | 大规模才校招生                                          | [明源云大规模才校招生，已经裁员60%，大概率团灭](https://maimai.cn/web/gossip_detail/30823576?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMGNjNWVmNDY1NzI5NDIxNzgzNmM0YjM3YWM3M2QyYWUiLCJpZCI6MzA4MjM1NzYsInUiOjIzMDI3MjIxOX0.15zlcl2_fFBa8RIwPK487MFfa6K6LyBCpjIkEtGXMnw&share_channel=5) | ![明源云大规模才校招生，已经裁员60%，大概率团灭](image-20221022233106396.png) |
-| 常州壹选科技 | 2022/08/14 | 入职第二天被劝退                                        | [PUA入职第二天被劝退](https://maimai.cn/web/gossip_detail/30873342?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYWE3ZDNhZjJlMzhmNGY0Yjk0YmQxN2IyZjViYWIwNGYiLCJpZCI6MzA4NzMzNDIsInUiOjIzMDI3MjIxOX0.BVvklVq7q5xlebz2SUUOuqVwyJp07DBXLjocy95frTI&share_channel=5) | ![入职第二天被劝退](/image-20221022233841222.png)            |
+| 兆易创新     | 2022/09/09 | 兆易创新毁意向                                          | [兆易创新毁意向](https://www.nowcoder.com/discuss/1046409)   | [兆易创新毁意向](Capture 284)                                |
+| 万集科技     | 2022/10/21 | 万集科技毁意向书征集                                    | [万集科技毁意向书征集](https://www.nowcoder.com/discuss/1082124) | [万集科技毁意向书征集](Capture 283)                          |
+| 诺瓦星云     | 2022/09/28 | 诺瓦星云毁意向                                          | [【避坑】诺瓦星云毁意向](https://www.nowcoder.com/discuss/1066991) | [诺瓦星云毁意向](Capture 282)                                |
+| 中科曙光     | 2022/10/21 | 又是被中科曙光毁意向的一天，双非硕以及211没过六级的不要 | [又是被中科曙光毁意向的一天](https://www.nowcoder.com/feed/main/detail/37f4e4234c3241c1aee202d287ebd485) | [又是被中科曙光毁意向的一天](Capture 281)                    |
+| 飞腾         | 2022/10/21 | 飞腾 毁意向                                             | [牛客第一帖：飞腾毁意向](https://www.nowcoder.com/discuss/1082068) | [长沙飞腾，只能说庆幸我没有全押宝在这上面](Capture 280)      |
+| 国电南自     | 2022/10/14 | 国电南自毁提前批意向书                                  | [国电南自毁提前批意向，大家小心点吧！操作太恶心了。](https://www.nowcoder.com/feed/main/detail/1758c9538b864b57a50cb050cc92962a) | [真的恶心啊。去年牛客上就有这样的例子，我以为不可能，结果今年到我了。](Capture 279) |
+| 明源云       | 2022/08/01 | 大规模才校招生                                          | [明源云大规模才校招生，已经裁员60%，大概率团灭](https://maimai.cn/web/gossip_detail/30823576?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMGNjNWVmNDY1NzI5NDIxNzgzNmM0YjM3YWM3M2QyYWUiLCJpZCI6MzA4MjM1NzYsInUiOjIzMDI3MjIxOX0.15zlcl2_fFBa8RIwPK487MFfa6K6LyBCpjIkEtGXMnw&share_channel=5) | [明源云大规模才校招生，已经裁员60%，大概率团灭](Capture 278) |
+| 常州壹选科技 | 2022/08/14 | 入职第二天被劝退                                        | [PUA入职第二天被劝退](https://maimai.cn/web/gossip_detail/30873342?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYWE3ZDNhZjJlMzhmNGY0Yjk0YmQxN2IyZjViYWIwNGYiLCJpZCI6MzA4NzMzNDIsInUiOjIzMDI3MjIxOX0.BVvklVq7q5xlebz2SUUOuqVwyJp07DBXLjocy95frTI&share_channel=5) | [入职第二天被劝退](Capture 277)                              |
 
 
 
@@ -48,13 +48,13 @@
 
 | 公司     | 时间       | 事件                                                         | 外链                                                         | 长截图                                                       |
 | :------- | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 虾皮     | 2022/10/12 | 虾皮裁应届生                                                 | [来自应届被裁的尴尬，谈薪资都不知道怎么谈](https://www.nowcoder.com/feed/main/detail/663d64a69be14b148eb1892596fc6aa2) | ![虾皮裁应届生](image-20221023000605478.png)                 |
-| 祖龙     | 2022/08/09 | 校招生入职一个月被裁                                         | [校招生入职一个月被裁](https://maimai.cn/web/gossip_detail/30853323?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYWY0YzJmMzQxNjcxNDk3NjgwMjRiYzA3OGFlNjgzNDMiLCJpZCI6MzA4NTMzMjMsInUiOjIzMDI3MjIxOX0.Ba2XK_qGVfZm5dPpanPszHJGr2Yeys4ikV4HRyM68B0&share_channel=5) | ![校招生入职一个月被裁](image-20221022234206505.png)         |
-| 自如     | 2022/06/28 | 应届生未入职被裁员                                           | [应届生未入职被裁员](https://maimai.cn/web/feed_detail?fid=1740863394&efid=7292nxO95uigh5fiCT7IWw&share_channel=5&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1IjoyMzAyNzIyMTksImZpZCI6MTc0MDg2MzM5NH0.Z2g5G5THCzf9eL-Ag-lk-dZ0FM3dZXItil2dnXH0Oe0&use_rn=1) | ![应届生未入职被裁员3](image-20221022234508193.png)          |
-| 转转     | 2022/05/05 | 签完三方，结果毕业前当一个月单方面解除三方，相当于未入职被裁员 | [未入职被裁员](https://maimai.cn/web/gossip_detail/30366677?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMmVkYTA5ZGQ5OWJjNGVhYzhiZTEzMTJkMjExYmNkYTQiLCJpZCI6MzAzNjY2NzcsInUiOjIzMDI3MjIxOX0.CUzH5EsB6ZSlxEHG0TDWpKgZTYnP6GnL2rJFK0Ud1DA&share_channel=5) | ![未入职被裁员](image-20221022234731900.png)                 |
-| 有赞     | 2022/04/04 | 有赞当方面毁约                                               | [有赞当方面毁约](https://maimai.cn/web/gossip_detail/30255355?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAyNTUzNTUsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjlmYTVjYjU2OWViODRhM2Y5YTExYmQ0ZDk2YmUwMThhIn0.fHZ5yMKhDmwL3WbD12EEpPZurlQr8d5B2959NT8ooF8&share_channel=2) | ![毁约](image-20221022234929085.png)                         |
-| 小米     | 2022/04/21 | 本硕QS 前50 + 提前实习，毕业后入职一个月毕业被约谈裁员       | [毕业后入职一个月毕业被约谈裁员](https://maimai.cn/web/gossip_detail/30299371?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNWU2NDBlMWE3NDM3NDE1MWI0NWI4YWZmNjBlOTVlNDMiLCJpZCI6MzAyOTkzNzEsInUiOjIzMDI3MjIxOX0.NVfZSPOlQHn7FpORD4CPXYhqsrUFNoD-yMkMaC_E8F8&share_channel=5) | ![毕业后入职一个月毕业被约谈裁员](image-20221022235039111.png) |
-| 滴滴     | 2022/04/07 | 四月份单方面通知&劝退                                        | [四月份单方面通知&劝退](https://maimai.cn/web/gossip_detail/30223109?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMDkwOTk2YzlmZTc2NGIzYWI2NWRmNGFiMDAzYzkwYTQiLCJpZCI6MzAyMjMxMDksInUiOjIzMDI3MjIxOX0.Kv3Quuts_RTnftYlkm3TqC7TJjaP4522CVUIg6obLmA&share_channel=5) | ![四月份单方面通知&劝退](image-20221022235245873.png)        |
+| 虾皮     | 2022/10/12 | 虾皮裁应届生                                                 | [来自应届被裁的尴尬，谈薪资都不知道怎么谈](https://www.nowcoder.com/feed/main/detail/663d64a69be14b148eb1892596fc6aa2) | [虾皮裁应届生](Capture 276)                                  |
+| 祖龙     | 2022/08/09 | 校招生入职一个月被裁                                         | [校招生入职一个月被裁](https://maimai.cn/web/gossip_detail/30853323?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYWY0YzJmMzQxNjcxNDk3NjgwMjRiYzA3OGFlNjgzNDMiLCJpZCI6MzA4NTMzMjMsInUiOjIzMDI3MjIxOX0.Ba2XK_qGVfZm5dPpanPszHJGr2Yeys4ikV4HRyM68B0&share_channel=5) | [校招生入职一个月被裁](Capture 275)                          |
+| 自如     | 2022/06/28 | 应届生未入职被裁员                                           | [应届生未入职被裁员](https://maimai.cn/web/feed_detail?fid=1740863394&efid=7292nxO95uigh5fiCT7IWw&share_channel=5&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1IjoyMzAyNzIyMTksImZpZCI6MTc0MDg2MzM5NH0.Z2g5G5THCzf9eL-Ag-lk-dZ0FM3dZXItil2dnXH0Oe0&use_rn=1) | [应届生未入职被裁员3](Capture 274)                           |
+| 转转     | 2022/05/05 | 签完三方，结果毕业前当一个月单方面解除三方，相当于未入职被裁员 | [未入职被裁员](https://maimai.cn/web/gossip_detail/30366677?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMmVkYTA5ZGQ5OWJjNGVhYzhiZTEzMTJkMjExYmNkYTQiLCJpZCI6MzAzNjY2NzcsInUiOjIzMDI3MjIxOX0.CUzH5EsB6ZSlxEHG0TDWpKgZTYnP6GnL2rJFK0Ud1DA&share_channel=5) | [未入职被裁员](Capture 273)                                  |
+| 有赞     | 2022/04/04 | 有赞当方面毁约                                               | [有赞当方面毁约](https://maimai.cn/web/gossip_detail/30255355?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAyNTUzNTUsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjlmYTVjYjU2OWViODRhM2Y5YTExYmQ0ZDk2YmUwMThhIn0.fHZ5yMKhDmwL3WbD12EEpPZurlQr8d5B2959NT8ooF8&share_channel=2) | [毁约](Capture 272)                                          |
+| 小米     | 2022/04/21 | 本硕QS 前50 + 提前实习，毕业后入职一个月毕业被约谈裁员       | [毕业后入职一个月毕业被约谈裁员](https://maimai.cn/web/gossip_detail/30299371?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNWU2NDBlMWE3NDM3NDE1MWI0NWI4YWZmNjBlOTVlNDMiLCJpZCI6MzAyOTkzNzEsInUiOjIzMDI3MjIxOX0.NVfZSPOlQHn7FpORD4CPXYhqsrUFNoD-yMkMaC_E8F8&share_channel=5) | [毕业后入职一个月毕业被约谈裁员](Capture 271)                |
+| 滴滴     | 2022/04/07 | 四月份单方面通知&劝退                                        | [四月份单方面通知&劝退](https://maimai.cn/web/gossip_detail/30223109?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMDkwOTk2YzlmZTc2NGIzYWI2NWRmNGFiMDAzYzkwYTQiLCJpZCI6MzAyMjMxMDksInUiOjIzMDI3MjIxOX0.Kv3Quuts_RTnftYlkm3TqC7TJjaP4522CVUIg6obLmA&share_channel=5) | [四月份单方面通知&劝退](Capture 270)                         |
 | 完美世界 | 2022/03/15 | 毁约应届生                                                   | [毁约应届生](https://maimai.cn/web/gossip_detail/30162132?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiOTFmYjgzYWFjNDI5NGQ2ZGI4OGI2YmQ2YTJlZWVmODIiLCJpZCI6MzAxNjIxMzIsInUiOjIzMDI3MjIxOX0.1xAxsIodCR9ilFP9eZi4rLp_smBN3FzLmNLfAUkiuwc&share_channel=5) | [毁约应届生][Capture 266]                                    |
 | 竞技世界 | 2021/03/25 | 提前实习毁校招正式offer                                      | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405) | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][拿到校招正式offer，提前实习后却不给转正，怎么回事？.png] |
 | 虎牙     | 2021/03/02 | 毁意向书                                                     | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477) | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png] |
@@ -192,6 +192,21 @@
 [Capture 265]: images/宜信继如第四范式撕毁意向书后,改为发放实习offer!_-知乎.png
 [Capture 266]: images/image-20221022235440264.png
 [Capture 268]: images/秋招被金山云收回offer,我该怎么办_-知乎.png
+[Capture 270 ]: images/image-20221022235245873.png
+[Capture 271 ]:  images/image-20221022235039111.png
+[Capture 272 ]:   images/image-20221022234929085.png
+[Capture 273 ]:  images/image-20221022234731900.png
+[Capture 274 ]:   images/image-20221022234508193.png
+[Capture 275]:  images/image-20221022234206505.png
+[Capture 276 ]:images/image-20221023000605478.png
+[Capture 277 ]:images/image-20221022233841222.png
+[Capture 278 ]: images/image-20221022233106396.png
+[Capture 279]:images/image-20221023001120429.png
+[Capture 280 ]:images/image-20221023000856470.png
+[Capture 281]:images/image-20221023000710536.png
+[Capture 282 ]: images/image-20221023000358890.png
+[Capture 283 ]: images/image-20221023000125663.png
+[Capture 284 ]:  images/image-20221023000024497.png
 
 <!-- Screenshots -->
 
@@ -202,5 +217,3 @@
 [统一给这些23届秋招毁意向、毁约的无良公司发封感谢信！](https://www.nowcoder.com/discuss/1082498?page=1) 
 
 [记录一下裁应届生的公司（附少量还在招2022届的公司）](https://www.nowcoder.com/discuss/937777) 
-
-[image-20221022235440264.png]: 
