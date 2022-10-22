@@ -1,5 +1,5 @@
 # CampusShame-校招污点公司记录
-由于[ShameCom](https://github.com/ShameCom/ShameCom)仓库不再更新，特此新开一个仓库，记录历届校园招聘过程中的具有**污点行为**的公司，其中部分内容（21届及其以前）引用[ShameCom](https://github.com/ShameCom/ShameCom)仓库。
+由于[ShameCom](https://github.com/ShameCom/ShameCom)仓库不再更新，特此新开一个repo，记录历届校园招聘过程中的具有**污点行为**的公司，其中部分内容（21届及其以前）引用[ShameCom](https://github.com/ShameCom/ShameCom)仓库。
 
 需要注意的是并不是不让大家投递下面的公司，而是在有选择的情况下多了解公司历史情况总是好的；
 
@@ -8,6 +8,8 @@
 污点行为**不**包括：毁OC（除非大量）、试用期结束未通过（除非大批量蓄意）。
 
 本仓库的主要信息来自于牛客、脉脉、知乎等公开论坛（很多帖子都会被当事公司及时公关，但是互联网不会忘记，对于被删除的帖子，我会尽量提供快照），欢迎大家积极补充参与。
+
+> 如果相关公司HR们有异议，认为存在误会或者事实并非如此，欢迎提[issue](https://github.com/forthespada/CampusShame/issues)留言，我会及时更新相关信息，争取不给贵公司添乱。
 
 
 
@@ -19,30 +21,20 @@
 
 
 
-
-
-
-
-
-
 <p id="2022"></p>
 
 ## 23届
 
-| 公司              | 时间                     | 事件                                                         | 外链                                                         | 长截图                                                       |
-| :---------------- | :----------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 竞技世界          | 2021/03/25               | 提前实习毁校招正式offer                                      | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405) | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][拿到校招正式offer，提前实习后却不给转正，怎么回事？.png] |
-| 虎牙              | 2021/03/02               | 毁意向书                                                     | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477) | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png] |
-| 高顿教育          | 2021/01/26               | 毁约                                                         | [高顿教育，最让我担心的事情还是让我摊上了](https://www.nowcoder.com/discuss/591473) | [高顿教育，最让我担心的事情还是让我摊上了](images/高顿教育，最让我担心的事情还是让我摊上了.png) |
-| 多益网络          | 2020/12/02               | 寄三方或体检后被毁约                                         | [本人寄三方后被毁约，打算签多益的看过来！！！](https://www.nowcoder.com/discuss/574772) <br> [多益网络体检完取消offer？](https://www.nowcoder.com/discuss/574432) | [本人寄三方后被毁约，打算签多益的看过来！！！][本人寄三方后被毁约，打算签多益的看过来！！！] <br> [多益网络体检完取消offer？][多益网络体检完取消offer？] |
-| 腾讯              | 2020/12/02               | 十月初收到意向书，十月底被告知岗位被取消，之后在不同的部门进行了四场面试至今无果 | [被腾讯毁意向了…万万没想到HR也会被HR坑](https://www.nowcoder.com/discuss/574490) | [截图备份.png](images/www.nowcoder.com_discuss_574490.png)   |
-| 腾讯              | 2020/11/14               | 腾讯校招因不能提前实习被毁offer                              | [腾讯校招因不能提前实习被毁offer](https://www.nowcoder.com/discuss/564004) | [腾讯校招因不能提前实习被毁offer.png][www.nowcoder.com_discuss_564004.png] |
-| 西山居            | 2020/10/31               | 毁实习生offer                                                | [金山西山居欺骗实习生！真人真事](https://www.nowcoder.com/discuss/554535) | [截图备份.png](/images/西山居欺骗实习生.png)                 |
-| 转转网            | 2020/10/31<br>2020/11/02 | 毁意向书                                                     | [被毁意向书了](https://www.nowcoder.com/discuss/554654) <br> [转转的神奇操作+变相毁意向？](https://www.nowcoder.com/discuss/555817) | [截图备份1.png](/images/转转毁约意向书.png) <br> [截图备份2.png](/images/另一个转转毁约的帖子.png) |
-| 哔哩哔哩/bilibili | 2020/10/28               | 毁意向书                                                     | [b站毁意向书](https://www.nowcoder.com/discuss/552315)       | [b站毁意向书.png][b站毁意向书.png]                           |
-| 猫眼              | 2020/10/20               | 宣传转正率99.9%，pua实习生                                   | [猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329) | [猫眼超恶心部门pua校招实习生.png][猫眼超恶心部门pua校招实习生.png] |
-| 中电53所          | 2020/10/18               | 利用三方的漏洞毁约天津地区与哈尔滨地区的意向书               | [中电53所撕意向书毁三方](https://www.nowcoder.com/discuss/541553)<br>[如何看待中电53所2020年解约问题?](https://www.zhihu.com/question/425469491) | [中电53所撕意向书毁三方.png][中电53所撕意向书毁三方.png]     |
-| 华为              | 2020/10/15               | 几乎不招人，大量面试并泡池子                                 | [可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉](https://www.nowcoder.com/discuss/539528)<br>[关于华为云的更大坏消息](https://www.nowcoder.com/discuss/540384) | [可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉.png][可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉.png] |
+| 公司         | 时间       | 事件                                                    | 外链                                                         | 长截图                                                       |
+| :----------- | :--------- | :------------------------------------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 兆易创新     | 2022/09/09 | 兆易创新毁意向                                          | [兆易创新毁意向](https://www.nowcoder.com/discuss/1046409)   | ![兆易创新毁意向](image-20221023000024497.png)               |
+| 万集科技     | 2022/10/21 | 万集科技毁意向书征集                                    | [万集科技毁意向书征集](https://www.nowcoder.com/discuss/1082124) | ![万集科技毁意向书征集](image-20221023000125663.png)         |
+| 诺瓦星云     | 2022/09/28 | 诺瓦星云毁意向                                          | [【避坑】诺瓦星云毁意向](https://www.nowcoder.com/discuss/1066991) | ![诺瓦星云毁意向](image-20221023000358890.png)               |
+| 中科曙光     | 2022/10/21 | 又是被中科曙光毁意向的一天，双非硕以及211没过六级的不要 | [又是被中科曙光毁意向的一天](https://www.nowcoder.com/feed/main/detail/37f4e4234c3241c1aee202d287ebd485) | ![又是被中科曙光毁意向的一天](image-20221023000710536.png)   |
+| 飞腾         | 2022/10/21 | 飞腾 毁意向                                             | [牛客第一帖：飞腾毁意向](https://www.nowcoder.com/discuss/1082068) | ![长沙飞腾，只能说庆幸我没有全押宝在这上面](image-20221023000856470.png) |
+| 国电南自     | 2022/10/14 | 国电南自毁提前批意向书                                  | [国电南自毁提前批意向，大家小心点吧！操作太恶心了。](https://www.nowcoder.com/feed/main/detail/1758c9538b864b57a50cb050cc92962a) | ![真的恶心啊。去年牛客上就有这样的例子，我以为不可能，结果今年到我了。](image-20221023001120429.png) |
+| 明源云       | 2022/08/01 | 大规模才校招生                                          | [明源云大规模才校招生，已经裁员60%，大概率团灭](https://maimai.cn/web/gossip_detail/30823576?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMGNjNWVmNDY1NzI5NDIxNzgzNmM0YjM3YWM3M2QyYWUiLCJpZCI6MzA4MjM1NzYsInUiOjIzMDI3MjIxOX0.15zlcl2_fFBa8RIwPK487MFfa6K6LyBCpjIkEtGXMnw&share_channel=5) | ![明源云大规模才校招生，已经裁员60%，大概率团灭](image-20221022233106396.png) |
+| 常州壹选科技 | 2022/08/14 | 入职第二天被劝退                                        | [PUA入职第二天被劝退](https://maimai.cn/web/gossip_detail/30873342?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYWE3ZDNhZjJlMzhmNGY0Yjk0YmQxN2IyZjViYWIwNGYiLCJpZCI6MzA4NzMzNDIsInUiOjIzMDI3MjIxOX0.BVvklVq7q5xlebz2SUUOuqVwyJp07DBXLjocy95frTI&share_channel=5) | ![入职第二天被劝退](/image-20221022233841222.png)            |
 
 
 
@@ -54,17 +46,18 @@
 
 
 
-| 公司     | 时间       | 事件                    | 外链                                                         | 长截图                                                       |
-| :------- | :--------- | :---------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 明源云   |            | 大规模才校招生          | 明源云大规模才校招生，已经裁员60%，大概率团灭                | ![](image-20221022233106396.png)                             |
-|          |            |                         |                                                              |                                                              |
-|          |            |                         |                                                              |                                                              |
-|          |            |                         |                                                              |                                                              |
-|          |            |                         |                                                              |                                                              |
-|          |            |                         |                                                              |                                                              |
-|          |            |                         |                                                              |                                                              |
-| 竞技世界 | 2021/03/25 | 提前实习毁校招正式offer | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405) | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][拿到校招正式offer，提前实习后却不给转正，怎么回事？.png] |
-| 虎牙     | 2021/03/02 | 毁意向书                | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477) | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png] |
+| 公司     | 时间       | 事件                                                         | 外链                                                         | 长截图                                                       |
+| :------- | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 虾皮     | 2022/10/12 | 虾皮裁应届生                                                 | [来自应届被裁的尴尬，谈薪资都不知道怎么谈](https://www.nowcoder.com/feed/main/detail/663d64a69be14b148eb1892596fc6aa2) | ![虾皮裁应届生](image-20221023000605478.png)                 |
+| 祖龙     | 2022/08/09 | 校招生入职一个月被裁                                         | [校招生入职一个月被裁](https://maimai.cn/web/gossip_detail/30853323?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYWY0YzJmMzQxNjcxNDk3NjgwMjRiYzA3OGFlNjgzNDMiLCJpZCI6MzA4NTMzMjMsInUiOjIzMDI3MjIxOX0.Ba2XK_qGVfZm5dPpanPszHJGr2Yeys4ikV4HRyM68B0&share_channel=5) | ![校招生入职一个月被裁](image-20221022234206505.png)         |
+| 自如     | 2022/06/28 | 应届生未入职被裁员                                           | [应届生未入职被裁员](https://maimai.cn/web/feed_detail?fid=1740863394&efid=7292nxO95uigh5fiCT7IWw&share_channel=5&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1IjoyMzAyNzIyMTksImZpZCI6MTc0MDg2MzM5NH0.Z2g5G5THCzf9eL-Ag-lk-dZ0FM3dZXItil2dnXH0Oe0&use_rn=1) | ![应届生未入职被裁员3](image-20221022234508193.png)          |
+| 转转     | 2022/05/05 | 签完三方，结果毕业前当一个月单方面解除三方，相当于未入职被裁员 | [未入职被裁员](https://maimai.cn/web/gossip_detail/30366677?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMmVkYTA5ZGQ5OWJjNGVhYzhiZTEzMTJkMjExYmNkYTQiLCJpZCI6MzAzNjY2NzcsInUiOjIzMDI3MjIxOX0.CUzH5EsB6ZSlxEHG0TDWpKgZTYnP6GnL2rJFK0Ud1DA&share_channel=5) | ![未入职被裁员](image-20221022234731900.png)                 |
+| 有赞     | 2022/04/04 | 有赞当方面毁约                                               | [有赞当方面毁约](https://maimai.cn/web/gossip_detail/30255355?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAyNTUzNTUsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjlmYTVjYjU2OWViODRhM2Y5YTExYmQ0ZDk2YmUwMThhIn0.fHZ5yMKhDmwL3WbD12EEpPZurlQr8d5B2959NT8ooF8&share_channel=2) | ![毁约](image-20221022234929085.png)                         |
+| 小米     | 2022/04/21 | 本硕QS 前50 + 提前实习，毕业后入职一个月毕业被约谈裁员       | [毕业后入职一个月毕业被约谈裁员](https://maimai.cn/web/gossip_detail/30299371?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNWU2NDBlMWE3NDM3NDE1MWI0NWI4YWZmNjBlOTVlNDMiLCJpZCI6MzAyOTkzNzEsInUiOjIzMDI3MjIxOX0.NVfZSPOlQHn7FpORD4CPXYhqsrUFNoD-yMkMaC_E8F8&share_channel=5) | ![毕业后入职一个月毕业被约谈裁员](image-20221022235039111.png) |
+| 滴滴     | 2022/04/07 | 四月份单方面通知&劝退                                        | [四月份单方面通知&劝退](https://maimai.cn/web/gossip_detail/30223109?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMDkwOTk2YzlmZTc2NGIzYWI2NWRmNGFiMDAzYzkwYTQiLCJpZCI6MzAyMjMxMDksInUiOjIzMDI3MjIxOX0.Kv3Quuts_RTnftYlkm3TqC7TJjaP4522CVUIg6obLmA&share_channel=5) | ![四月份单方面通知&劝退](image-20221022235245873.png)        |
+| 完美世界 | 2022/03/15 | 毁约应届生                                                   | [毁约应届生](https://maimai.cn/web/gossip_detail/30162132?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiOTFmYjgzYWFjNDI5NGQ2ZGI4OGI2YmQ2YTJlZWVmODIiLCJpZCI6MzAxNjIxMzIsInUiOjIzMDI3MjIxOX0.1xAxsIodCR9ilFP9eZi4rLp_smBN3FzLmNLfAUkiuwc&share_channel=5) | ![毁约应届生](image-20221022235440264.png)                   |
+| 竞技世界 | 2021/03/25 | 提前实习毁校招正式offer                                      | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405) | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][拿到校招正式offer，提前实习后却不给转正，怎么回事？.png] |
+| 虎牙     | 2021/03/02 | 毁意向书                                                     | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477) | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png] |
 
 
 
