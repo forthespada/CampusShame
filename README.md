@@ -1,4 +1,4 @@
-![](images/logo (7).png)
+![](./images/logo (7).png)
 
 <h1 align="center">CampusShame-校招污点公司记录</h1>
 
