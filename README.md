@@ -55,8 +55,8 @@
 | 有赞     | 2022/04/04 | 有赞当方面毁约                                               | [有赞当方面毁约](https://maimai.cn/web/gossip_detail/30255355?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAyNTUzNTUsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjlmYTVjYjU2OWViODRhM2Y5YTExYmQ0ZDk2YmUwMThhIn0.fHZ5yMKhDmwL3WbD12EEpPZurlQr8d5B2959NT8ooF8&share_channel=2) | ![毁约](image-20221022234929085.png)                         |
 | 小米     | 2022/04/21 | 本硕QS 前50 + 提前实习，毕业后入职一个月毕业被约谈裁员       | [毕业后入职一个月毕业被约谈裁员](https://maimai.cn/web/gossip_detail/30299371?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNWU2NDBlMWE3NDM3NDE1MWI0NWI4YWZmNjBlOTVlNDMiLCJpZCI6MzAyOTkzNzEsInUiOjIzMDI3MjIxOX0.NVfZSPOlQHn7FpORD4CPXYhqsrUFNoD-yMkMaC_E8F8&share_channel=5) | ![毕业后入职一个月毕业被约谈裁员](image-20221022235039111.png) |
 | 滴滴     | 2022/04/07 | 四月份单方面通知&劝退                                        | [四月份单方面通知&劝退](https://maimai.cn/web/gossip_detail/30223109?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMDkwOTk2YzlmZTc2NGIzYWI2NWRmNGFiMDAzYzkwYTQiLCJpZCI6MzAyMjMxMDksInUiOjIzMDI3MjIxOX0.Kv3Quuts_RTnftYlkm3TqC7TJjaP4522CVUIg6obLmA&share_channel=5) | ![四月份单方面通知&劝退](image-20221022235245873.png)        |
-| 完美世界 | 2022/03/15 | 毁约应届生                                                   | [毁约应届生](https://maimai.cn/web/gossip_detail/30162132?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiOTFmYjgzYWFjNDI5NGQ2ZGI4OGI2YmQ2YTJlZWVmODIiLCJpZCI6MzAxNjIxMzIsInUiOjIzMDI3MjIxOX0.1xAxsIodCR9ilFP9eZi4rLp_smBN3FzLmNLfAUkiuwc&share_channel=5) | [image-20221022235440264.png][image-20221022235440264.png]   |
-| 竞技世界 | 2021/03/25 | 提前实习毁校招正式offer                                      | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405) | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][拿到校招正式offer，提前实习后却不给转正，怎么回事？.png] |
+| 完美世界 | 2022/03/15 | 毁约应届生                                                   | [毁约应届生](https://maimai.cn/web/gossip_detail/30162132?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiOTFmYjgzYWFjNDI5NGQ2ZGI4OGI2YmQ2YTJlZWVmODIiLCJpZCI6MzAxNjIxMzIsInUiOjIzMDI3MjIxOX0.1xAxsIodCR9ilFP9eZi4rLp_smBN3FzLmNLfAUkiuwc&share_channel=5) | [毁约应届生][Capture 266]                                    |
+| 竞技世界 | 2021/03/25 | 提前实习毁校招正式offer                                      | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405) | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][image-20221022235245873.png] |
 | 虎牙     | 2021/03/02 | 毁意向书                                                     | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477) | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png] |
 
 
@@ -190,6 +190,7 @@
 [Capture 259]: images/秋招最坑-第四范式大规模毁offer意向书_猿生活_牛客网.png
 [Capture 262]: images/深圳迈瑞医疗解聘大量应届生_猿生活_牛客网.png
 [Capture 265]: images/宜信继如第四范式撕毁意向书后,改为发放实习offer!_-知乎.png
+[Capture 266]: images/image-20221022235440264.png
 [Capture 268]: images/秋招被金山云收回offer,我该怎么办_-知乎.png
 
 <!-- Screenshots -->
@@ -201,3 +202,5 @@
 [统一给这些23届秋招毁意向、毁约的无良公司发封感谢信！](https://www.nowcoder.com/discuss/1082498?page=1) 
 
 [记录一下裁应届生的公司（附少量还在招2022届的公司）](https://www.nowcoder.com/discuss/937777) 
+
+[image-20221022235440264.png]: 
