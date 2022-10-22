@@ -1,4 +1,4 @@
-![](./images/logo (7).png)
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210230153072.png)
 
 <h1 align="center">CampusShame-校招污点公司记录</h1>
 
