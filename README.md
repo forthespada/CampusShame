@@ -5,24 +5,25 @@
 
 
 
+<h1 align="center">CampusShame-校招污点与非污点公司记录</h1>
 
-<h1 align="center">CampusShame-校招污点公司记录</h1>
+由于[ShameCom](https://github.com/ShameCom/ShameCom)仓库不再更新，特此新开一个repo，记录历届校园招聘过程中的具有**污点行为**以及部分**不具有污点行为**的公司，其中部分内容（21届及其以前）引用[ShameCom](https://github.com/ShameCom/ShameCom)仓库。
 
-由于[ShameCom](https://github.com/ShameCom/ShameCom)仓库不再更新，特此新开一个repo，记录历届校园招聘过程中的具有**污点行为**的公司，其中部分内容（21届及其以前）引用[ShameCom](https://github.com/ShameCom/ShameCom)仓库。
-
-需要注意的是并不是不让大家投递下面的公司，因噎废食不可取，我们需要在有选择的情况下多了解公司历史情况总是好的；
+需要注意的是并不是不让大家投递下面的污点公司，因噎废食不可取，我们需要在有选择的情况下多了解公司历史情况总是好的；
 
 校招污点行为**包括**但不限于：毁意向书、毁两方协定、毁三方协定、试用期裁员、大量裁应届生。
 
 污点行为**不**包括：毁OC（除非大量）、试用期结束未通过（除非大批量蓄意）。
 
-本仓库的主要信息来自于牛客、脉脉、知乎等公开论坛（很多帖子都会被当事公司及时公关，但是互联网不会忘记，对于被删除的帖子，我会尽量提供快照），欢迎大家积极补充参与。
+本仓库的主要信息来自于牛客、脉脉、知乎等公开论坛（很多帖子都会被当事公司及时公关，但是互联网不会忘记，对于被删除的帖子，我会尽量提供快照），欢迎大家积极补充参与，众人拾柴火焰高。
 
 > 如果相关公司HR们有异议，认为存在误会或者事实并非如此，欢迎提[issue](https://github.com/forthespada/CampusShame/issues)留言，我会及时更新相关信息，争取不给贵公司添乱。
 
 
 
-**目录**
+[**无污点公司目录**](#无污点公司)
+
+[**污点公司目录**](#污点公司)
 
 - [23届（2022年秋参加校招）](#2022)
 - [22届（2021年秋参加校招）](#2021)
@@ -31,20 +32,48 @@
 
 
 
+<p id="无污点公司"></p>
+
+
+
+
+# 无污点公司目录(待补充)
+
+| 公司 | 性质 | 链接 |
+| :--: | :--: | :--: |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+
+
+<p id="污点公司">
+  
+</p>
+
+# 污点公司目录
+
 <p id="2022"></p>
 
-## 23届
+## 23届（2022年秋参加校招）
 
-| 公司         | 时间       | 事件                                                    | 外链                                                         | 长截图                                                       |
-| :----------- | :--------- | :------------------------------------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 兆易创新     | 2022/09/09 | 兆易创新毁意向                                          | [兆易创新毁意向](https://www.nowcoder.com/discuss/1046409)   | [兆易创新毁意向][Capture 284]                                |
-| 万集科技     | 2022/10/21 | 万集科技毁意向书征集                                    | [万集科技毁意向书征集](https://www.nowcoder.com/discuss/1082124) | [万集科技毁意向书征集][Capture 283]                          |
-| 诺瓦星云     | 2022/09/28 | 诺瓦星云毁意向                                          | [【避坑】诺瓦星云毁意向](https://www.nowcoder.com/discuss/1066991) | [诺瓦星云毁意向][Capture 282]                                |
-| 中科曙光     | 2022/10/21 | 又是被中科曙光毁意向的一天，双非硕以及211没过六级的不要 | [又是被中科曙光毁意向的一天](https://www.nowcoder.com/feed/main/detail/37f4e4234c3241c1aee202d287ebd485) | [又是被中科曙光毁意向的一天][Capture 281]                    |
-| 飞腾         | 2022/10/21 | 飞腾 毁意向                                             | [牛客第一帖：飞腾毁意向](https://www.nowcoder.com/discuss/1082068) | [长沙飞腾，只能说庆幸我没有全押宝在这上面][Capture 280]      |
-| 国电南自     | 2022/10/14 | 国电南自毁提前批意向书                                  | [国电南自毁提前批意向，大家小心点吧！操作太恶心了。](https://www.nowcoder.com/feed/main/detail/1758c9538b864b57a50cb050cc92962a) | [真的恶心啊。去年牛客上就有这样的例子，我以为不可能，结果今年到我了。][Capture 279] |
-| 明源云       | 2022/08/01 | 大规模才校招生                                          | [明源云大规模才校招生，已经裁员60%，大概率团灭](https://maimai.cn/web/gossip_detail/30823576?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMGNjNWVmNDY1NzI5NDIxNzgzNmM0YjM3YWM3M2QyYWUiLCJpZCI6MzA4MjM1NzYsInUiOjIzMDI3MjIxOX0.15zlcl2_fFBa8RIwPK487MFfa6K6LyBCpjIkEtGXMnw&share_channel=5) | [明源云大规模才校招生，已经裁员60%，大概率团灭][Capture 278] |
-| 常州壹选科技 | 2022/08/14 | 入职第二天被劝退                                        | [PUA入职第二天被劝退](https://maimai.cn/web/gossip_detail/30873342?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYWE3ZDNhZjJlMzhmNGY0Yjk0YmQxN2IyZjViYWIwNGYiLCJpZCI6MzA4NzMzNDIsInUiOjIzMDI3MjIxOX0.BVvklVq7q5xlebz2SUUOuqVwyJp07DBXLjocy95frTI&share_channel=5) | [入职第二天被劝退][Capture 277]                              |
+|     公司      |    时间     |                          事件                           |                             外链                             |                            长截图                            |
+| :-----------: | :---------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|   兆易创新    | 2022/09/09  |                     兆易创新毁意向                      |  [兆易创新毁意向](https://www.nowcoder.com/discuss/1046409)  |                [兆易创新毁意向][Capture 284]                 |
+|   万集科技    | 2022/10/21  |                  万集科技毁意向书征集                   | [万集科技毁意向书征集](https://www.nowcoder.com/discuss/1082124) |             [万集科技毁意向书征集][Capture 283]              |
+|   诺瓦星云    | 2022/09/28  |                     诺瓦星云毁意向                      | [【避坑】诺瓦星云毁意向](https://www.nowcoder.com/discuss/1066991) |                [诺瓦星云毁意向][Capture 282]                 |
+|   中科曙光    | 2022/10/21  | 又是被中科曙光毁意向的一天，双非硕以及211没过六级的不要 | [又是被中科曙光毁意向的一天](https://www.nowcoder.com/feed/main/detail/37f4e4234c3241c1aee202d287ebd485) |          [又是被中科曙光毁意向的一天][Capture 281]           |
+|     飞腾      | 2022/10/21  |                       飞腾 毁意向                       | [牛客第一帖：飞腾毁意向](https://www.nowcoder.com/discuss/1082068) |   [长沙飞腾，只能说庆幸我没有全押宝在这上面][Capture 280]    |
+|   国电南自    | 2022/10/14  |                 国电南自毁提前批意向书                  | [国电南自毁提前批意向，大家小心点吧！操作太恶心了。](https://www.nowcoder.com/feed/main/detail/1758c9538b864b57a50cb050cc92962a) | [真的恶心啊。去年牛客上就有这样的例子，我以为不可能，结果今年到我了。][Capture 279] |
+|    明源云     | 2022/08/01  |                     大规模裁校招生                      | [明源云大规模裁校招生，已经裁员60%，大概率团灭](https://maimai.cn/web/gossip_detail/30823576?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMGNjNWVmNDY1NzI5NDIxNzgzNmM0YjM3YWM3M2QyYWUiLCJpZCI6MzA4MjM1NzYsInUiOjIzMDI3MjIxOX0.15zlcl2_fFBa8RIwPK487MFfa6K6LyBCpjIkEtGXMnw&share_channel=5) | [明源云大规模裁员校招生，已经裁员60%，大概率团灭][Capture 278] |
+| 常州壹选科技  | 2022/08/14  |                    入职第二天被劝退                     | [PUA入职第二天被劝退](https://maimai.cn/web/gossip_detail/30873342?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYWE3ZDNhZjJlMzhmNGY0Yjk0YmQxN2IyZjViYWIwNGYiLCJpZCI6MzA4NzMzNDIsInUiOjIzMDI3MjIxOX0.BVvklVq7q5xlebz2SUUOuqVwyJp07DBXLjocy95frTI&share_channel=5) |               [入职第二天被劝退][Capture 277]                |
+|   行深智能    | 2022/ 10/21 |                    行深智能毁意向书                     | [行深智能毁意向书](https://www.nowcoder.com/discuss/1074136) |               [行深智能毁意向书](Capture 289)                |
+| 墨奇 base成都 | 2022-09-20  |                  墨奇 base成都毁意向书                  | [墨奇 base成都毁意向书](https://www.nowcoder.com/discuss/1056674) |             [墨奇 base成都毁意向书](Capture 288)             |
+|   长安汽车    | 2022-10-21  |                    长安汽车毁意向书                     | [国企鸽了我后又被说不发](https://www.nowcoder.com/feed/main/detail/1632b67022454477b4a09dfe85e61f24) |                [长安汽车毁意向](Capture 287)                 |
+|   汇川技术    | 2022-09-18  |                    汇川技术毁意向书                     | [秋招趣事之汇川技术](https://www.nowcoder.com/feed/main/detail/52e7e9b1562f40049aec936147873e79) |              [秋招趣事之汇川技术](Capture 286)               |
+|  之江实验室   | 2022/10/11  |                   之江实验室毁意向书                    | [之江实验室毁意向书](https://www.nowcoder.com/feed/main/detail/d3f2e05bd9644af7aef4b26ffab9ec96) |              [之江实验室毁意向书][Capture 285]               |
+
+
 
 
 
@@ -52,9 +81,7 @@
 
 <p id="2021"></p>
 
-## 22届
-
-
+## 22届（2021年秋参加校招）
 
 | 公司     | 时间       | 事件                                                         | 外链                                                         | 长截图                                                       |
 | :------- | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -75,9 +102,7 @@
 
 <p id="2020"></p>
 
-## 21届及其以前
-
-
+## 21届及其以前（2020年秋及以前参加校招）
 
 | 公司              | 时间                     | 事件                                                         | 外链                                                         | 长截图                                                       |
 | :---------------- | :----------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -135,7 +160,7 @@
 | 金山云            | 2017/10/30               | 收回offer                                                    | [秋招被金山云收回offer,我该怎么办?](https://www.zhihu.com/question/67347461) | [知乎问答][Capture 268]                                      |
 
 <p id="贡献方式">
-  
+
 </p>
 
 
@@ -223,6 +248,17 @@
 [Capture 282 ]: images/image-20221023000358890.png
 [Capture 283 ]: images/image-20221023000125663.png
 [Capture 284 ]:  images/image-20221023000024497.png
+[ Capture 285 ]: images/image-20221024001736209.png
+[ Capture 286]: images/image-20221024001631707.png
+[Capture 287]: images/image-20221024001507158.png
+[ Capture 288]: images/image-20221024001310034-6541594.png
+[ Capture 289]: images/image-20221024000952713.png
+[Capture 290 ]: images/
+[ Capture 291]: images/
+
+
+
+
 
 <!-- Screenshots -->
 
