@@ -16,7 +16,7 @@
       <strong>为什么只允许公司做海王把应届生当🐟，不能学生自己当海王去养公司的🐟呢?</strong>
   </div>
   <div>
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210241217022.gif" style="zoom:150%;" />
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210241225270.gif" style="zoom:100%;" />
   </div>
 </div>
 
