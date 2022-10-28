@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">CampusShame-校招污点与非污点公司记录</h1>
+<h1 align="center">CampusShame-校招污点与非污点公司名单</h1>
 
 由于 [ShameCom](https://github.com/ShameCom/ShameCom) 仓库不再更新，特此新开一个repo，记录历届校园招聘过程中的具有**污点行为**以及部分**不具有污点行为**的公司，其中部分内容（21届及其以前）引用ShameCom仓库。
 
@@ -59,7 +59,7 @@
 
 
 <p id="污点公司">
-  
+
 </p>
 
 # 污点公司目录
