@@ -70,6 +70,7 @@
 |     公司      |    时间    |                          事件                           |                             外链                             |                            长截图                            |
 | :-----------: | :--------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |   海康威视    | 2022/11/05 |              海康威视大范围收回秋招意向书               | [外链](https://maimai.cn/web/gossip_detail/31227973?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzEyMjc5NzMsInUiOjIzMDMwMzI4NiwiZWdpZCI6IjQ3NjkzM2Y3ZTE3ZTQyOWVhNjc3YzhjYzM2OWM4MDc5In0.hAHO_UFyLLr5AZE22JB9OEV0ohYnGjGIovK_mNkiCzE&share_channel=2&operation_id=aedde165-fd75-40bf-b38f-e8e9906d816e&content_type=gossip) | [外链](https://maimai.cn/web/gossip_detail/31227973?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzEyMjc5NzMsInUiOjIzMDMwMzI4NiwiZWdpZCI6IjQ3NjkzM2Y3ZTE3ZTQyOWVhNjc3YzhjYzM2OWM4MDc5In0.hAHO_UFyLLr5AZE22JB9OEV0ohYnGjGIovK_mNkiCzE&share_channel=2&operation_id=aedde165-fd75-40bf-b38f-e8e9906d816e&content_type=gossip) |
+|     美的      | 2022/11/03 |                     秋招美的毁offer                     | [秋招美的毁offer](https://www.nowcoder.com/feed/main/detail/47b8320ba7d347e6a9ffeaef4ff0c2e0) |                    [长截图][Capture 290]                     |
 |   兆易创新    | 2022/09/09 |                     兆易创新毁意向                      |  [兆易创新毁意向](https://www.nowcoder.com/discuss/1046409)  |                [兆易创新毁意向][Capture 284]                 |
 |   万集科技    | 2022/10/21 |                  万集科技毁意向书征集                   | [万集科技毁意向书征集](https://www.nowcoder.com/discuss/1082124) |             [万集科技毁意向书征集][Capture 283]              |
 |   诺瓦星云    | 2022/09/28 |                     诺瓦星云毁意向                      | [【避坑】诺瓦星云毁意向](https://www.nowcoder.com/discuss/1066991) |                [诺瓦星云毁意向][Capture 282]                 |
@@ -264,7 +265,7 @@
 [Capture 287]: images/image-20221024001507158.png
 [ Capture 288]: images/image-20221024001310034-6541594.png
 [ Capture 289]: images/image-20221024000952713.png
-[Capture 290 ]: images/
+[Capture 290 ]: images/秋招美的毁offer.png
 [ Capture 291]: images/
 
 
@@ -280,3 +281,5 @@
 [统一给这些23届秋招毁意向、毁约的无良公司发封感谢信！](https://www.nowcoder.com/discuss/1082498?page=1) 
 
 [记录一下裁应届生的公司（附少量还在招2022届的公司）](https://www.nowcoder.com/discuss/937777) 
+
+[Capture 290]: 
