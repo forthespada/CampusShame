@@ -69,8 +69,11 @@
 
 |     公司      |    时间    |                          事件                           |                             外链                             |                            长截图                            |
 | :-----------: | :--------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   海康威视    | 2022/11/05 |              海康威视大范围收回秋招意向书               | [外链](https://maimai.cn/web/gossip_detail/31227973?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzEyMjc5NzMsInUiOjIzMDMwMzI4NiwiZWdpZCI6IjQ3NjkzM2Y3ZTE3ZTQyOWVhNjc3YzhjYzM2OWM4MDc5In0.hAHO_UFyLLr5AZE22JB9OEV0ohYnGjGIovK_mNkiCzE&share_channel=2&operation_id=aedde165-fd75-40bf-b38f-e8e9906d816e&content_type=gossip) | [外链](https://maimai.cn/web/gossip_detail/31227973?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzEyMjc5NzMsInUiOjIzMDMwMzI4NiwiZWdpZCI6IjQ3NjkzM2Y3ZTE3ZTQyOWVhNjc3YzhjYzM2OWM4MDc5In0.hAHO_UFyLLr5AZE22JB9OEV0ohYnGjGIovK_mNkiCzE&share_channel=2&operation_id=aedde165-fd75-40bf-b38f-e8e9906d816e&content_type=gossip) |
-|     美的      | 2022/11/03 |                     秋招美的毁offer                     | [秋招美的毁offer](https://www.nowcoder.com/feed/main/detail/47b8320ba7d347e6a9ffeaef4ff0c2e0) |                    [长截图][Capture 290]                     |
+|    新华三     | 2022/11/09 |              新华三毁offer！大家注意避雷！              | [新华三毁offer！大家注意避雷！](https://www.nowcoder.com/discuss/1091091) |                [保留证据长截图][Capture 293]                 |
+|    新国都     | 2022/11/09 |                     新国都也毁意向                      | [新国都也毁意向](https://www.nowcoder.com/users/131979291?type=2&&status=1) |                [保留证据长截图][Capture 292]                 |
+|     歌尔      | 2022/11/09 |                歌尔毁约!大家注意避坑!!!                 | [歌尔毁约!大家注意避坑!!!](https://www.nowcoder.com/discuss/1092135) |                [保留证据长截图][Capture 291]                 |
+|   海康威视    | 2022/11/05 |              海康威视大范围收回秋招意向书               | [海康威视大范围收回秋招意向书](https://maimai.cn/web/gossip_detail/31227973?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzEyMjc5NzMsInUiOjIzMDMwMzI4NiwiZWdpZCI6IjQ3NjkzM2Y3ZTE3ZTQyOWVhNjc3YzhjYzM2OWM4MDc5In0.hAHO_UFyLLr5AZE22JB9OEV0ohYnGjGIovK_mNkiCzE&share_channel=2&operation_id=aedde165-fd75-40bf-b38f-e8e9906d816e&content_type=gossip) | [外链](https://maimai.cn/web/gossip_detail/31227973?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzEyMjc5NzMsInUiOjIzMDMwMzI4NiwiZWdpZCI6IjQ3NjkzM2Y3ZTE3ZTQyOWVhNjc3YzhjYzM2OWM4MDc5In0.hAHO_UFyLLr5AZE22JB9OEV0ohYnGjGIovK_mNkiCzE&share_channel=2&operation_id=aedde165-fd75-40bf-b38f-e8e9906d816e&content_type=gossip) |
+|     美的      | 2022/11/03 |                     秋招美的毁offer                     | [秋招美的毁offer](https://www.nowcoder.com/feed/main/detail/47b8320ba7d347e6a9ffeaef4ff0c2e0) |                [保留证据长截图][Capture 290]                 |
 |   兆易创新    | 2022/09/09 |                     兆易创新毁意向                      |  [兆易创新毁意向](https://www.nowcoder.com/discuss/1046409)  |                [兆易创新毁意向][Capture 284]                 |
 |   万集科技    | 2022/10/21 |                  万集科技毁意向书征集                   | [万集科技毁意向书征集](https://www.nowcoder.com/discuss/1082124) |             [万集科技毁意向书征集][Capture 283]              |
 |   诺瓦星云    | 2022/09/28 |                     诺瓦星云毁意向                      | [【避坑】诺瓦星云毁意向](https://www.nowcoder.com/discuss/1066991) |                [诺瓦星云毁意向][Capture 282]                 |
@@ -97,6 +100,7 @@
 
 | 公司     | 时间       | 事件                                                         | 外链                                                         | 长截图                                                       |
 | :------- | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 哈啰出行 | 2022/05/02 | 哈啰出行四月底毁三方，吃相难看                               | [哈啰出行四月底毁三方，吃相难看](https://www.nowcoder.com/discuss/945918) | [保留证据长截图][Capture 294]                                |
 | 虾皮     | 2022/10/12 | 虾皮裁应届生                                                 | [来自应届被裁的尴尬，谈薪资都不知道怎么谈](https://www.nowcoder.com/feed/main/detail/663d64a69be14b148eb1892596fc6aa2) | [虾皮裁应届生][Capture 276]                                  |
 | 祖龙     | 2022/08/09 | 校招生入职一个月被裁                                         | [校招生入职一个月被裁](https://maimai.cn/web/gossip_detail/30853323?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYWY0YzJmMzQxNjcxNDk3NjgwMjRiYzA3OGFlNjgzNDMiLCJpZCI6MzA4NTMzMjMsInUiOjIzMDI3MjIxOX0.Ba2XK_qGVfZm5dPpanPszHJGr2Yeys4ikV4HRyM68B0&share_channel=5) | [校招生入职一个月被裁][Capture 275]                          |
 | 自如     | 2022/06/28 | 应届生未入职被裁员                                           | [应届生未入职被裁员](https://maimai.cn/web/feed_detail?fid=1740863394&efid=7292nxO95uigh5fiCT7IWw&share_channel=5&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1IjoyMzAyNzIyMTksImZpZCI6MTc0MDg2MzM5NH0.Z2g5G5THCzf9eL-Ag-lk-dZ0FM3dZXItil2dnXH0Oe0&use_rn=1) | [应届生未入职被裁员3][Capture 274]                           |
@@ -266,7 +270,13 @@
 [ Capture 288]: images/image-20221024001310034-6541594.png
 [ Capture 289]: images/image-20221024000952713.png
 [Capture 290 ]: images/秋招美的毁offer.png
-[ Capture 291]: images/
+[ Capture 291]: images/歌尔毁约.png
+[Capture 292 ]: images/新国都.png
+[ Capture 293 ]:  images/新华三毁offer！大家注意避雷！.png
+
+[ Capture 294 ]: images/哈啰出行四月底毁三方，吃相难看.png
+
+
 
 
 
