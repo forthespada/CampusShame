@@ -85,7 +85,6 @@
 |   行深智能    | 2022/10/21 |                    行深智能毁意向书                     | [行深智能毁意向书](https://www.nowcoder.com/discuss/1074136) |               [行深智能毁意向书][Capture 289]                |
 | 墨奇 base成都 | 2022/09/20 |                  墨奇 base成都毁意向书                  | [墨奇 base成都毁意向书](https://www.nowcoder.com/discuss/1056674) |             [墨奇 base成都毁意向书][Capture 288]             |
 |   长安汽车    | 2022/10/21 |                    长安汽车毁意向书                     | [国企鸽了我后又被说不发](https://www.nowcoder.com/feed/main/detail/1632b67022454477b4a09dfe85e61f24) |                [长安汽车毁意向][Capture 287]                 |
-|   汇川技术    | 2022/09/18 |                    汇川技术毁意向书                     | [秋招趣事之汇川技术](https://www.nowcoder.com/feed/main/detail/52e7e9b1562f40049aec936147873e79) |              [秋招趣事之汇川技术][Capture 286]               |
 |  之江实验室   | 2022/10/11 |                   之江实验室毁意向书                    | [之江实验室毁意向书](https://www.nowcoder.com/feed/main/detail/d3f2e05bd9644af7aef4b26ffab9ec96) |              [之江实验室毁意向书][Capture 285]               |
 
 
