@@ -160,8 +160,20 @@
 | 宜信            | 2018/11/14               | 正式offer变实习offer                          | [宜信继如第四范式撕毁意向书后,改为发放实习offer!?](https://zhuanlan.zhihu.com/p/49756477)                                                                                                                                                                                                                                                                                                  | [知乎专栏][Capture 265]                                                                      |
 | 金山云           | 2017/10/30               | 收回offer                                  | [秋招被金山云收回offer,我该怎么办?](https://www.zhihu.com/question/67347461)                                                                                                                                                                                                                                                                                                        | [知乎问答][Capture 268]                                                                      |
 
-<p id="贡献方式">
 
+
+# 往届学长学姐校招踩坑分享
+
+- [9个人，大厂、事业单位、银行、学校](https://mp.weixin.qq.com/s/As9flgmQ5b9LufKGocbWfw)
+- [工作4年，我走了太多的弯路，可以说毫无职业规划](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247503190&idx=1&sn=1df1fe4797459014cf16270844052aae&chksm=ce26312bf951b83d47905ef6da5230d036106438c507cf8ec53b3aa263d0d7284f436319e288&scene=178&cur_album_id=2681729916509372418#rd)
+- [校招进入银行科技部半年，已经丧失跳槽的能力了](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247509335&idx=1&sn=36012890c5356e4b4c507fe512e1f8ea&chksm=ce26592af951d03cff4a2dd938001d73b9dc9e547ed9b1fe937d32981a11f2c290c38993de21&scene=178&cur_album_id=2681729916509372418#rd)
+- [在央企做程序员是种什么体验？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247502257&idx=1&sn=ae0350ff044d9e8723a4084350abe805&chksm=ce2635ccf951bcda17a83888515409fbf4a17a860a3f65e516230b192dad0beb86e94b54042b&scene=178&cur_album_id=2681729916509372418#rd)
+- [入职农业银行软件开发两个月，聊聊现状](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247508927&idx=1&sn=97416985cbbb8beef915d983e8a230d1&chksm=ce265fc2f951d6d4b3dfbb7b5bdc9d7ec10bac056562df15877fdedbd9d0561abf55b9e0b9a8&scene=178&cur_album_id=2681729916509372418#rd)
+- [emo了，入职技术岗四个月后我被转入营销岗](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247509405&idx=1&sn=1823c23615ce7a40e0a7b53fbf839516&chksm=ce2659e0f951d0f672632ada0b1293c9bf0b91e02429cabe3bab2f50488d2345bebc2b89896d&scene=178&cur_album_id=2681729916509372418#rd)
+
+
+
+<p id="贡献方式">
 </p>
 
 # 贡献方式
@@ -266,15 +278,6 @@
 
 <p id="往届学长学姐踩坑分享">
 </p>
-
-# 往届学长学姐校招踩坑分享
-
-- [9个人，大厂、事业单位、银行、学校](https://mp.weixin.qq.com/s/As9flgmQ5b9LufKGocbWfw)
-- [工作4年，我走了太多的弯路，可以说毫无职业规划](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247503190&idx=1&sn=1df1fe4797459014cf16270844052aae&chksm=ce26312bf951b83d47905ef6da5230d036106438c507cf8ec53b3aa263d0d7284f436319e288&scene=178&cur_album_id=2681729916509372418#rd)
-- [校招进入银行科技部半年，已经丧失跳槽的能力了](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247509335&idx=1&sn=36012890c5356e4b4c507fe512e1f8ea&chksm=ce26592af951d03cff4a2dd938001d73b9dc9e547ed9b1fe937d32981a11f2c290c38993de21&scene=178&cur_album_id=2681729916509372418#rd)
-- [在央企做程序员是种什么体验？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247502257&idx=1&sn=ae0350ff044d9e8723a4084350abe805&chksm=ce2635ccf951bcda17a83888515409fbf4a17a860a3f65e516230b192dad0beb86e94b54042b&scene=178&cur_album_id=2681729916509372418#rd)
-- [入职农业银行软件开发两个月，聊聊现状](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247508927&idx=1&sn=97416985cbbb8beef915d983e8a230d1&chksm=ce265fc2f951d6d4b3dfbb7b5bdc9d7ec10bac056562df15877fdedbd9d0561abf55b9e0b9a8&scene=178&cur_album_id=2681729916509372418#rd)
-- [emo了，入职技术岗四个月后我被转入营销岗](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247509405&idx=1&sn=1823c23615ce7a40e0a7b53fbf839516&chksm=ce2659e0f951d0f672632ada0b1293c9bf0b91e02429cabe3bab2f50488d2345bebc2b89896d&scene=178&cur_album_id=2681729916509372418#rd)
 
 
 
