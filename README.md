@@ -104,7 +104,7 @@
 | 完美世界 | 2022/03/15 | 毁约应届生                           | [毁约应届生](https://maimai.cn/web/gossip_detail/30162132?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiOTFmYjgzYWFjNDI5NGQ2ZGI4OGI2YmQ2YTJlZWVmODIiLCJpZCI6MzAxNjIxMzIsInUiOjIzMDI3MjIxOX0.1xAxsIodCR9ilFP9eZi4rLp_smBN3FzLmNLfAUkiuwc&share_channel=5)           | [毁约应届生][Capture 266]                                                 |
 | 竞技世界 | 2021/03/25 | 提前实习毁校招正式offer                  | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405)                                                                                                                                                                                                        | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][拿到校招正式offer，提前实习后却不给转正，怎么回事？.png] |
 | 虎牙   | 2021/03/02 | 毁意向书                            | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477)                                                                                                                                                                                                               | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png]               |
-
+| 京东   | 2022/04/19 | 四月份京东leader单方面劝退                     | [四月份京东leader单方面劝退](https://maimai.cn/web/gossip_detail/30292594?egid=da0d2749fa144f82a29959957eb980a3&gid=30292594&operation_id=fd910f56-5921-41f6-9312-26d52110851a&share_channel=5&share_euid=_YgQggqi7NbsS4yn2k25iHJToFyZy3UQ9piF799VV68GrmCIqUiAaHavfLukuY6NV4vB4riWyb-fYJ6UGRm9jg)     | [京东四月份单方面劝退.png][京东四月份单方面劝退.png]               |
 <p id="2020"></p>
 
 ## 21届及其以前（2020年秋及以前参加校招）
