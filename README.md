@@ -105,6 +105,7 @@
 | 竞技世界 | 2021/03/25 | 提前实习毁校招正式offer                  | [拿到校招正式offer，提前实习后却不给转正，怎么回事？](https://www.nowcoder.com/discuss/623405)                                                                                                                                                                                                        | [拿到校招正式offer，提前实习后却不给转正，怎么回事？.png][拿到校招正式offer，提前实习后却不给转正，怎么回事？.png] |
 | 虎牙   | 2021/03/02 | 毁意向书                            | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477)                                                                                                                                                                                                               | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png]               |
 | 京东   | 2022/04/19 | 四月份京东leader单方面劝退                     | [四月份京东leader单方面劝退](https://maimai.cn/web/gossip_detail/30292594?egid=da0d2749fa144f82a29959957eb980a3&gid=30292594&operation_id=fd910f56-5921-41f6-9312-26d52110851a&share_channel=5&share_euid=_YgQggqi7NbsS4yn2k25iHJToFyZy3UQ9piF799VV68GrmCIqUiAaHavfLukuY6NV4vB4riWyb-fYJ6UGRm9jg)     | [京东四月份单方面劝退.png][京东四月份单方面劝退.png]               |
+| 万得 | 2022/06/10 | 六月份大批量毁 22 届三方，极少部分留下的降薪处理；23 届继续毁意向 | [万得【wind】毁意向_牛客网 (nowcoder.com)](https://www.nowcoder.com/discuss/413074611200438272)  [脉脉—万得6/10毁约](https://maimai.cn/web/feed_detail?fid=1738563274&efid=Yyrv4BztBvfv_VsFBUS_3Q) | [万得22年6月毁三方.png][万得22年6月毁三方.png] |
 <p id="2020"></p>
 
 ## 21届及其以前（2020年秋及以前参加校招）
@@ -276,6 +277,7 @@
 [  Capture 295 ]: images/科大讯飞毁意向，不要本科双非的.png
 [Capture 296]: images/纵目科技毁意向.png
 [ Capture 297]:  images/北京好未来！堪比北森.png
+[万得22年6月毁三方.png]:  images/万得22年6月毁三方.png
 [Capture 298]:   images/网易毁实习转正意向.png
 
 <!-- Screenshots -->
@@ -293,3 +295,8 @@
 
 [记录一下裁应届生的公司（附少量还在招2022届的公司）](https://www.nowcoder.com/discuss/937777) 
 
+
+
+[京东四月份单方面劝退.png]: 
+
+[京东四月份单方面劝退.png]: 
