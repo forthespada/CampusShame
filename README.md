@@ -31,6 +31,8 @@
 
 > 如果相关公司HR们有异议，认为存在误会或者事实并非如此，欢迎提[issue](https://github.com/forthespada/CampusShame/issues)留言，我会及时更新相关信息，争取不给贵公司添乱。
 
+🔥[校招日程（每日更新最新、最热校招资讯）](#校招日程)
+
 [**无污点公司目录**](#无污点公司)
 
 [**污点公司目录**](#污点公司)
@@ -43,7 +45,27 @@
 
 **[贡献方式](#贡献方式)**
 
+<p id="校招日程"></p>
+
+
+
 <p id="无污点公司"></p>
+
+# 校招日程（每日更新最新、最热校招资讯
+
+最近发现一位程序媛小姐姐分享了很多应届生校招资讯，不仅有往届的补录，还有应届的春招、实习以及秋招公司信息等，分享一下这位小姐姐的整理！
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202303162354132.png)
+
+[应届实习信息大全](https://flowus.cn/5f327c98-1e31-46c8-b86b-5ac6105e021f)
+
+[应届校招信息大全](https://flowus.cn/5f327c98-1e31-46c8-b86b-5ac6105e021f)
+
+[往届补录信息大全](https://flowus.cn/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2)
+
+
+
+
 
 # 无污点公司目录(期待你的补充)
 
@@ -66,6 +88,7 @@
 
 |     公司      |    时间    |                          事件                           |                             外链                             |                            长截图                            |
 | :-----------: | :--------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|   集创北方    | 2023/03/16 |                二月裁应届生，3月发年终奖                | [github网友补充](https://github.com/forthespada/CampusShame/issues/14) | [github网友补充](https://github.com/forthespada/CampusShame/issues/14) |
 |    富士通     | 2022/12/04 |               富士通西安毕业前2个月毁三方               | [github网友补充](https://github.com/forthespada/CampusShame/issues/11) | [github网友补充](https://github.com/forthespada/CampusShame/issues/11) |
 |     网易      | 2022/11/25 |                   网易毁实习转正意向                    | [网易毁实习转正意向](https://www.nowcoder.com/discuss/dynamic/114c46855b814e22a8dc32549ff8b2c0) |                [保留证据长截图][Capture 298]                 |
 |  北京好未来   | 2022/11/24 |         秋招曝光一个公司(北京好未来！堪比北森)          | [秋招曝光一个公司(北京好未来！堪比北森)](https://www.nowcoder.com/discuss/post/425344496252018688) |    [秋招曝光一个公司(北京好未来！堪比北森)][Capture 297]     |
@@ -294,9 +317,3 @@
 [统一给这些23届秋招毁意向、毁约的无良公司发封感谢信！](https://www.nowcoder.com/discuss/1082498?page=1) 
 
 [记录一下裁应届生的公司（附少量还在招2022届的公司）](https://www.nowcoder.com/discuss/937777) 
-
-
-
-[京东四月份单方面劝退.png]: 
-
-[京东四月份单方面劝退.png]: 
