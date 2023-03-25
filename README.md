@@ -57,11 +57,11 @@
 
 ![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202303162354132.png)
 
-[应届实习信息大全](https://flowus.cn/5f327c98-1e31-46c8-b86b-5ac6105e021f)
+[应届实习信息大全](https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f)
 
-[应届校招信息大全](https://flowus.cn/5f327c98-1e31-46c8-b86b-5ac6105e021f)
+[应届校招信息大全](https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f)
 
-[往届补录信息大全](https://flowus.cn/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2)
+[往届补录信息大全](https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2)
 
 
 
