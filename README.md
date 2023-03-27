@@ -88,6 +88,7 @@
 
 |     公司      |    时间    |                          事件                           |                             外链                             |                            长截图                            |
 | :-----------: | :--------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    优维尔     | 2023/03/27 |        离谱!优维尔毁约，学生三方被卡，春招更难了        | [github网友补充](https://github.com/forthespada/CampusShame/issues/16) | [github网友补充](https://github.com/forthespada/CampusShame/issues/16) |
 |   集创北方    | 2023/03/16 |                二月裁应届生，3月发年终奖                | [github网友补充](https://github.com/forthespada/CampusShame/issues/14) | [github网友补充](https://github.com/forthespada/CampusShame/issues/14) |
 |    富士通     | 2022/12/04 |               富士通西安毕业前2个月毁三方               | [github网友补充](https://github.com/forthespada/CampusShame/issues/11) | [github网友补充](https://github.com/forthespada/CampusShame/issues/11) |
 |     网易      | 2022/11/25 |                   网易毁实习转正意向                    | [网易毁实习转正意向](https://www.nowcoder.com/discuss/dynamic/114c46855b814e22a8dc32549ff8b2c0) |                [保留证据长截图][Capture 298]                 |
