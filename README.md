@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210230153072.png" style="zoom:100%;" />
+  <img src="http://oss.interviewguide.cn/img/202210230153072.png" style="zoom:100%;" />
 </div>
 
 <h1 align="center">CampusShame-校招污点与非污点公司名单</h1>
@@ -17,7 +17,7 @@
       <strong>为什么只允许公司做海王把应届生当🐟，不能学生自己当海王去养公司的🐟呢?</strong>
   </div>
   <div>
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210241225270.gif" style="zoom:100%;" />
+    <img src="http://oss.interviewguide.cn/img/202210241225270.gif" style="zoom:100%;" />
   </div>
 </div>
 
@@ -55,7 +55,7 @@
 
 最近发现一位程序媛小姐姐分享了很多应届生校招资讯，不仅有往届的补录，还有应届的春招、实习以及秋招公司信息等，分享一下这位小姐姐的整理！
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202303162354132.png)
+![](http://oss.interviewguide.cn/img/202303162354132.png)
 
 [应届实习信息大全](https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f)
 
