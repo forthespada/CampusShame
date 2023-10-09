@@ -45,6 +45,20 @@
 
 
 
+# 校招日程（每日更新最新、最热校招资讯
+
+最近发现一位程序媛小姐姐分享了很多应届生校招资讯，不仅有往届的补录，还有应届的春招、实习以及秋招公司信息等，分享一下这位小姐姐的整理！
+
+![](http://oss.interviewguide.cn/img/202303162354132.png)
+
+[应届实习信息大全](https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f)
+
+[应届校招信息大全](https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f)
+
+[往届补录信息大全](https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2)
+
+
+
 <p id="校招日程"></p>
 
 # 无污点公司目录(期待你的补充)
@@ -70,7 +84,7 @@
 | :-----------: | :--------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 上海汉得信息  | 2023/05/29 |      毕业前一个月解约大量校招生，热度都上牛客热搜       | [热搜帖子](https://www.nowcoder.com/discuss/495987262782451712) |                   [证据截图][Capture 300]                    |
 | 上海游族网络  | 2023/05/30 |            上海游族网络毕业前全部解约校招生             |                [保留证据长截图][Capture 299]                 |                [保留证据长截图][Capture 299]                 |
-| 中国移动通信  | 2023/05/30 |    临近毕业，现在大量毁三方，接近百人被移远毁三方，     | [github网友补充](https://github.com/forthespada/CampusShame/issues/18) | [github网友补充](https://github.com/forthespada/CampusShame/issues/18) |
+| 中国移远通信  | 2023/05/30 |    临近毕业，现在大量毁三方，接近百人被移远毁三方，     | [github网友补充](https://github.com/forthespada/CampusShame/issues/18) | [github网友补充](https://github.com/forthespada/CampusShame/issues/18) |
 |    优维尔     | 2023/03/27 |        离谱!优维尔毁约，学生三方被卡，春招更难了        | [github网友补充](https://github.com/forthespada/CampusShame/issues/16) | [github网友补充](https://github.com/forthespada/CampusShame/issues/16) |
 |   集创北方    | 2023/03/16 |                二月裁应届生，3月发年终奖                | [github网友补充](https://github.com/forthespada/CampusShame/issues/14) | [github网友补充](https://github.com/forthespada/CampusShame/issues/14) |
 |    富士通     | 2022/12/04 |               富士通西安毕业前2个月毁三方               | [github网友补充](https://github.com/forthespada/CampusShame/issues/11) | [github网友补充](https://github.com/forthespada/CampusShame/issues/11) |
